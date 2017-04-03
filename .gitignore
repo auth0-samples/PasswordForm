@@ -26,7 +26,7 @@ DerivedData
 # Bundler
 .bundle
 
-Pods/
+#Pods/
 Carthage/Checkouts
 !Carthage/Build
 # Xcode
@@ -55,7 +55,6 @@ xcuserdata/
 ## Obj-C/Swift specific
 *.hmap
 *.ipa
-
 ## Playgrounds
 timeline.xctimeline
 playground.xcworkspace
